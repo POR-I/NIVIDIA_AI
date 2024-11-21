@@ -99,6 +99,7 @@
 
 
 **(Since Yolov5 is supported by 640 * 640, the original image is set to 640 * 640 using a resolution conversion program.**
+
 ![v4](https://github.com/user-attachments/assets/6828c191-6c1b-4a77-acf4-a695b46005e3)
 
 [[https://www.bing.com/ck/a?!&&p=17025025dbeef5d650a67a3b4a49c0218bed35529ef61e6ddbfc38d974981ab8JmltdHM9MTczMTYyODgwMA&ptn=3&ver=2&hsh=4&fclid=29425e80-95ec-62a3-2119-51b5944e63b9&psq=뱁믹스&u=a1aHR0cHM6Ly93d3cudmFwc2hpb24uY29tL3ZhcHNoaW9uMy9kb3dubG9hZC5waHA&ntb=1](https://www.bing.com/ck/a?!&&p=17025025dbeef5d650a67a3b4a49c0218bed35529ef61e6ddbfc38d974981ab8JmltdHM9MTczMTYyODgwMA&ptn=3&ver=2&hsh=4&fclid=29425e80-95ec-62a3-2119-51b5944e63b9&psq=%eb%b1%81%eb%af%b9%ec%8a%a4&u=a1aHR0cHM6Ly93d3cudmFwc2hpb24uY29tL3ZhcHNoaW9uMy9kb3dubG9hZC5waHA&ntb=1)](https://www.bing.com/ck/a?!&&p=17025025dbeef5d650a67a3b4a49c0218bed35529ef61e6ddbfc38d974981ab8JmltdHM9MTczMTYyODgwMA&ptn=3&ver=2&hsh=4&fclid=29425e80-95ec-62a3-2119-51b5944e63b9&psq=%eb%b1%81%eb%af%b9%ec%8a%a4&u=a1aHR0cHM6Ly93d3cudmFwc2hpb24uY29tL3ZhcHNoaW9uMy9kb3dubG9hZC5waHA&ntb=1)
