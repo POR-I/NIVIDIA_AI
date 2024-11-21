@@ -118,6 +118,7 @@ my_classes1:  [ "YogaBlock", "Kettlebell","MedBall","FoamRoller","LacrosseBall",
 ![v6](https://github.com/user-attachments/assets/b0c429e3-07be-476b-973a-d3f7c1805a01)
 
 **In order to see the classes set in the DarkLabel GUI when announcing by entering the code as follows in VS Studio, class_set adds a preset 'my_classes1' and sets the name to be viewed in the GUI to 'fitness_accessories’**
+
 ![v12](https://github.com/user-attachments/assets/1d4d7445-32bf-4e18-a04b-a0016229afd9)
 
 ```python
