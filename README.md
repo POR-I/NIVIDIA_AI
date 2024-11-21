@@ -96,11 +96,11 @@
 
 [DarkLabel2.4.zip](DarkLabel2.4.zip)
 
-![Untitled](Untitled.png)
+!https://private-user-images.githubusercontent.com/188140080/388408176-5deca680-fe47-4ae0-8880-a56bb744e3e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNzYyMjUsIm5iZiI6MTczMjE3NTkyNSwicGF0aCI6Ii8xODgxNDAwODAvMzg4NDA4MTc2LTVkZWNhNjgwLWZlNDctNGFlMC04ODgwLWE1NmJiNzQ0ZTNlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQwNzU4NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MGNhNjE0MDZiNWJjZjlhMjQ3NGFhYjQ3MmNlNGU0YTAwY2EzNjZiOGMxZTFhNGIyMGUzOTAxZTQ3YmE0MzIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CJjjGdB8z25m5zUQ51iKBoe-eljaWHzg0g9Ecx5cS5A
 
 **(Since Yolov5 is supported by 640 * 640, the original image is set to 640 * 640 using a resolution conversion program.**
 
-![뱁믹스 인코딩 설정.JPG](25d80498-33a9-49d4-acb0-a37e45c89780.png)
+!https://private-user-images.githubusercontent.com/188140080/388408226-3b55c052-6d1d-45fe-b40c-988a51f03865.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNzYyMjUsIm5iZiI6MTczMjE3NTkyNSwicGF0aCI6Ii8xODgxNDAwODAvMzg4NDA4MjI2LTNiNTVjMDUyLTZkMWQtNDVmZS1iNDBjLTk4OGE1MWYwMzg2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQwNzU4NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMWFmNThkN2MzOGFkNDdjZDQyYWNhMTI5ZDRkODhmMTk1OWNlZTkxZGJiYjgyYzJhYzcyZDVmMzMzOTEyZjhkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XzHciOnpB0fr0riTB5BSvyGZduRRlF70FpMNmKmfHdk
 
 [[https://www.bing.com/ck/a?!&&p=17025025dbeef5d650a67a3b4a49c0218bed35529ef61e6ddbfc38d974981ab8JmltdHM9MTczMTYyODgwMA&ptn=3&ver=2&hsh=4&fclid=29425e80-95ec-62a3-2119-51b5944e63b9&psq=뱁믹스&u=a1aHR0cHM6Ly93d3cudmFwc2hpb24uY29tL3ZhcHNoaW9uMy9kb3dubG9hZC5waHA&ntb=1](https://www.bing.com/ck/a?!&&p=17025025dbeef5d650a67a3b4a49c0218bed35529ef61e6ddbfc38d974981ab8JmltdHM9MTczMTYyODgwMA&ptn=3&ver=2&hsh=4&fclid=29425e80-95ec-62a3-2119-51b5944e63b9&psq=%eb%b1%81%eb%af%b9%ec%8a%a4&u=a1aHR0cHM6Ly93d3cudmFwc2hpb24uY29tL3ZhcHNoaW9uMy9kb3dubG9hZC5waHA&ntb=1)](https://www.bing.com/ck/a?!&&p=17025025dbeef5d650a67a3b4a49c0218bed35529ef61e6ddbfc38d974981ab8JmltdHM9MTczMTYyODgwMA&ptn=3&ver=2&hsh=4&fclid=29425e80-95ec-62a3-2119-51b5944e63b9&psq=%eb%b1%81%eb%af%b9%ec%8a%a4&u=a1aHR0cHM6Ly93d3cudmFwc2hpb24uY29tL3ZhcHNoaW9uMy9kb3dubG9hZC5waHA&ntb=1)
 
@@ -120,7 +120,7 @@ my_classes1:  [ "YogaBlock", "Kettlebell","MedBall","FoamRoller","LacrosseBall",
 
 **In order to see the classes set in the DarkLabel GUI when announcing by entering the code as follows in VS Studio, class_set adds a preset 'my_classes1' and sets the name to be viewed in the GUI to 'fitness_accessories’**
 
-![image.png](b7cf7ef5-a729-4acc-aead-eedcdfded97a.png)
+!https://private-user-images.githubusercontent.com/188140080/388408256-6b43d45c-20b6-47e2-9d6c-b7b4d750cc31.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNzYyMjUsIm5iZiI6MTczMjE3NTkyNSwicGF0aCI6Ii8xODgxNDAwODAvMzg4NDA4MjU2LTZiNDNkNDVjLTIwYjYtNDdlMi05ZDZjLWI3YjRkNzUwY2MzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQwNzU4NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDM3Y2VmOTFmNGYxZDExYTUzZDY1ODIwNWFjOGRhYjg1ZmUyZWZmNmM5M2E3YWU0OGVjMjQ1NWRmMmY4N2U5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZG_GD4ze6brkPfq1l9OaG6rrAtjQAL2sUZw8B4mxcbs
 
 ```python
 format1:    # darknet yolo (predefined format]
